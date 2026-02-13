@@ -10,7 +10,7 @@ Built for **Valentine's Day**, this interactive web application explores the rel
 Drawing from my background as a **Filmmaker** turned **Full Stack Developer**, I designed this experience as a "Casting Call". You are the Director, the Tech is the Star. Will you create a Box Office Hit or a Direct-to-DVD disaster?
 
 ## 🚀 Live Demo
-👉 **[Try the Casting Call here](https://fomoa.github.io/ValentineStack/)**
+👉 **[Try the Casting Call here](https://fomoa.github.io/ValentinStack/)**
 
 ## 🛠️ Tech Stack & Features
 This project focuses on **Vanilla JavaScript** fundamentals and creative **UI/UX Design**. No heavy frameworks, just clean code.
